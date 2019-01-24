@@ -20,7 +20,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://101.129.17.43/ws/cctv.png</string>
+     <string>http://10.10.14.130:18060/appimages/app.jpg</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -28,7 +28,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://101.129.17.43/ws/cctv.png</string>
+     <string>http://10.10.14.130:18060/appimages/app.jpg</string>
     </dict>
    </array>
    <key>metadata</key>
